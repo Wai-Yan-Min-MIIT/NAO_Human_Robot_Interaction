@@ -7,7 +7,7 @@ from text_to_speech_pytts import speak_with_spinner
 
 # Initialize the Groq client
 def initialize_groq_client():
-    os.environ["GROQ_API_KEY"] = "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"
+    os.environ["GROQ_API_KEY"] = ""
     client = Groq(api_key=os.getenv("GROQ_API_KEY"))
     return client
 
