@@ -12,7 +12,7 @@ from sklearn.preprocessing import LabelEncoder
 nltk.download('punkt')
 
 # Load the dataset
-with open(r'C:\Users\L-72\Wai_yan_folder\programming\NAO\miit_dataset.json') as file:
+with open(r'NAO\miit_dataset.json') as file:
     data = json.load(file)
 
 # Extract patterns and tags
