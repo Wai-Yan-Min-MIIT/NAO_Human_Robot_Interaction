@@ -1,0 +1,259 @@
+{
+	"intents": [
+		{
+			"tag": "greeting",
+			"patterns": ["Hi", "Hello", "Good morning", "Good afternoon"],
+			"responses": [
+				"Hello! How can I help you today?",
+				"Hi there! What can I do for you?"
+			]
+		},
+		{
+			"tag": "farewell",
+			"patterns": ["Bye", "See you later", "Goodbye"],
+			"responses": ["Goodbye! Have a great day!", "See you later!"]
+		},
+		{
+			"tag": "miit_overview",
+			"patterns": ["Tell me about MIIT", "What is MIIT?", "Overview of MIIT"],
+			"responses": [
+				"MIIT is the Myanmar Institute of Information Technology, a not-for-profit institution established through a collaboration between the governments of India and Myanmar. It offers undergraduate and postgraduate programs in technology and engineering."
+			]
+		},
+		{
+			"tag": "mission_vision",
+			"patterns": [
+				"What is the mission of MIIT?",
+				"What is the vision of MIIT?"
+			],
+			"responses": [
+				"MIIT's mission is to produce high-quality graduates equipped with the knowledge and skills necessary to thrive in the information technology industry. Its vision is to become a leading institution for technological education and research in Myanmar."
+			]
+		},
+		{
+			"tag": "programs_offered",
+			"patterns": [
+				"What programs are offered at MIIT?",
+				"Tell me about the courses at MIIT"
+			],
+			"responses": [
+				"M I I T offers the following programs:\n- B.E. Honous in Computer Science & Engineering\n- B.E. Honous in Electronics & Communication Engineering\n- Postgraduate Diploma in Software Development"
+			]
+		},
+		{
+			"tag": "admission_process",
+			"patterns": [
+				"How can I get admitted to MIIT?",
+				"Tell me about the admission process"
+			],
+			"responses": [
+				"To get admitted to MIIT, applicants must appear for an entrance examination. A weighted average of the performance in the matriculation examination and the entrance examination is used to create a merit list, which is used for final admissions."
+			]
+		},
+		{
+			"tag": "tuition_fees",
+			"patterns": [
+				"What are the tuition fees at MIIT?",
+				"Tell me about the fees"
+			],
+			"responses": [
+				"For detailed information about tuition fees, please visit the MIIT official website or contact the admissions office directly."
+			]
+		},
+		{
+			"tag": "scholarships",
+			"patterns": [
+				"Are there any scholarships available?",
+				"Tell me about scholarships at MIIT"
+			],
+			"responses": [
+				"MIIT offers various scholarships and financial aid options for eligible students. For more information, please visit the MIIT scholarships page or contact the financial aid office."
+			]
+		},
+		{
+			"tag": "campus_facilities",
+			"patterns": [
+				"What facilities are available on campus?",
+				"Tell me about the campus facilities"
+			],
+			"responses": [
+				"MIIT offers a range of facilities including state-of-the-art laboratories, modern classrooms, a well-equipped library, sports facilities, and comfortable student accommodations."
+			]
+		},
+		{
+			"tag": "hostel",
+			"patterns": [
+				"Is hostel accommodation available?",
+				"Tell me about the hostels at MIIT"
+			],
+			"responses": [
+				"Yes, MIIT provides hostel accommodation for its students. The hostels are equipped with necessary amenities to ensure a comfortable living environment."
+			]
+		},
+		{
+			"tag": "events",
+			"patterns": ["What events are held at MIIT?", "Tell me about the events"],
+			"responses": [
+				"MIIT hosts a variety of events throughout the year including technical seminars, workshops, cultural events, and sports competitions."
+			]
+		},
+		{
+			"tag": "location",
+			"patterns": [
+				"Where is MIIT located?",
+				"Tell me about the location of MIIT"
+			],
+			"responses": [
+				"MIIT is located in 73rd Street, Ngu Shwe Wah St, Mandalay, Myanmar. For more details, please visit the contact page on the MIIT website."
+			]
+		},
+		{
+			"tag": "contact_information",
+			"patterns": [
+				"How can I contact MIIT?",
+				"Give me the contact details for MIIT"
+			],
+			"responses": [
+				"You can contact MIIT through the following ways:\nPhone: +95-2-123456\nEmail: info@miit.edu.mm\nAddress: Mandalay, Myanmar"
+			]
+		},
+		{
+			"tag": "library",
+			"patterns": [
+				"Tell me about the library",
+				"What resources are available in the library?"
+			],
+			"responses": [
+				"The MIIT library offers a wide range of resources including books, journals, research papers, and digital materials to support the academic needs of students and faculty."
+			]
+		},
+		{
+			"tag": "faculty",
+			"patterns": [
+				"Who are the faculty members?",
+				"Tell me about the faculty at MIIT"
+			],
+			"responses": [
+				"MIIT has a dedicated team of experienced faculty members who are experts in their respective fields. For detailed profiles, please visit the faculty section on the MIIT website."
+			]
+		},
+		{
+			"tag": "career_services",
+			"patterns": [
+				"Does MIIT offer career services?",
+				"Tell me about the career services at MIIT"
+			],
+			"responses": [
+				"MIIT provides comprehensive career services including internship opportunities, career counseling, job placements, and workshops to help students prepare for their professional careers."
+			]
+		},
+		{
+			"tag": "student_life",
+			"patterns": [
+				"What is student life like at MIIT?",
+				"Tell me about student life"
+			],
+			"responses": [
+				"Student life at MIIT is vibrant and diverse. Students can participate in various clubs, organizations, and events that cater to a wide range of interests and hobbies."
+			]
+		},
+		{
+			"tag": "health_services",
+			"patterns": [
+				"Are health services available at MIIT?",
+				"Tell me about the health services"
+			],
+			"responses": [
+				"Yes, MIIT provides health services to ensure the well-being of its students. This includes access to medical facilities and mental health support."
+			]
+		},
+		{
+			"tag": "transportation",
+			"patterns": [
+				"What transportation options are available?",
+				"Tell me about transportation to MIIT"
+			],
+			"responses": [
+				"MIIT is accessible via various transportation options including public transport and private vehicles. Shuttle services are also available for students."
+			]
+		},
+		{
+			"tag": "alumni",
+			"patterns": [
+				"Tell me about MIIT alumni",
+				"What do MIIT alumni do?",
+				"What are the career paths of MIIT alumni?"
+			],
+			"responses": [
+				"MIIT alumni have gone on to achieve success in various fields including technology, engineering, and research. The alumni network provides opportunities for networking and professional growth."
+			]
+		},
+		{
+			"tag": "recent_news",
+			"patterns": [
+				"What is the latest news about MIIT?",
+				"Any recent updates about MIIT?"
+			],
+			"responses": [
+				"For the latest news and updates about MIIT, please visit the news section on the MIIT website or follow their social media channels."
+			]
+		},
+		{
+			"tag": "administration",
+			"patterns": [
+				"Who are the key administrators at MIIT?",
+				"Tell me about the administration at MIIT"
+			],
+			"responses": [
+				"The main administrators of MIIT are the Director, the Rector, the Pro-Rector, and the Registrar. They are responsible for implementing the goals of MIIT and ensuring the academic and operational excellence of the institute."
+			]
+		},
+		{
+			"tag": "collaborations",
+			"patterns": [
+				"Which institutions does MIIT collaborate with?",
+				"Tell me about MIIT's collaborations"
+			],
+			"responses": [
+				"MIIT collaborates with various international institutions and organizations to enhance its academic programs and research capabilities. These collaborations include partnerships with universities, research centers, and industry leaders."
+			]
+		},
+		{
+			"tag": "rankings",
+			"patterns": ["How is MIIT ranked?", "Tell me about MIIT's rankings"],
+			"responses": [
+				"MIIT is recognized as a leading institution for technological education and research in Myanmar. For detailed rankings and achievements, please visit the MIIT website."
+			]
+		},
+		{
+			"tag": "research",
+			"patterns": [
+				"What research opportunities are available at MIIT?",
+				"Tell me about research at MIIT"
+			],
+			"responses": [
+				"MIIT offers various research opportunities for students and faculty in fields such as computer science, electronics, and communication engineering. The institute also participates in collaborative research projects with international partners."
+			]
+		},
+		{
+			"tag": "extracurricular",
+			"patterns": [
+				"What extracurricular activities are available at MIIT?",
+				"Tell me about extracurriculars at MIIT"
+			],
+			"responses": [
+				"MIIT offers a wide range of extracurricular activities including clubs, sports, cultural events, and community service programs. These activities help students develop their skills and interests outside of academics."
+			]
+		},
+		{
+			"tag": "food",
+			"patterns": [
+				"What dining options are available at MIIT?",
+				"Tell me about the food at MIIT"
+			],
+			"responses": [
+				"MIIT provides various dining options for students, including a cafeteria and food stalls that offer a variety of meals and snacks."
+			]
+		}
+	]
+}

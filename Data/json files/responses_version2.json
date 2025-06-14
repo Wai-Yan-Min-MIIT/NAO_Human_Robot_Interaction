@@ -1,0 +1,184 @@
+{
+    "greeting": [
+        "Hello! How can I help you today?",
+        "Hi there! What can I do for you?"
+    ],
+    "farewell": [
+        "Goodbye! Have a great day!",
+        "See you later!"
+    ],
+    "overview": [
+        "MIIT is the Myanmar Institute of Information Technology, a not-for-profit institution established through a collaboration between the governments of India and Myanmar. It offers undergraduate and postgraduate programs in technology and engineering."
+    ],
+    "mission vision": [
+        "MIIT's mission is to produce high-quality graduates equipped with the knowledge and skills necessary to thrive in the information technology industry. Its vision is to become a leading institution for technological education and research in Myanmar."
+    ],
+    "programs offered": [
+        "MIIT offers the following programs:\n- B.E. Honours in Computer Science & Engineering\n- B.E. Honours in Electronics & Communication Engineering\n- Postgraduate Diploma in Software Development\n- Master of Engineering in Computer Science"
+    ],
+    "admission process": [
+        "To get admitted to MIIT, applicants must appear for an entrance examination. A weighted average of the performance in the matriculation examination and the entrance examination is used to create a merit list, which is used for final admissions."
+    ],
+    "tuition fees": [
+        "For detailed information about tuition fees, please visit the MIIT official website or contact the admissions office directly."
+    ],
+    "scholarships": [
+        "MIIT offers various scholarships for meritorious and financially needy students. Please visit our website for more details."
+    ],
+    "campus facilities": [
+        "MIIT offers a range of facilities including state-of-the-art laboratories, modern classrooms, a well-equipped library, sports facilities, and comfortable student accommodations."
+    ],
+    "hostel": [
+        "Yes, MIIT provides hostel accommodation for its students. The hostels are equipped with necessary amenities to ensure a comfortable living environment."
+    ],
+    "events": [
+        "MIIT hosts a variety of events throughout the year including technical seminars, workshops, cultural events, and sports competitions."
+    ],
+    "location": [
+        "MIIT is located in 73rd Street, Ngu Shwe Wah St, Mandalay, Myanmar. For more details, please visit the contact page on the MIIT website."
+    ],
+    "contact information": [
+        "You can contact MIIT through the following ways:\nPhone: +95-2-123456\nEmail: info@MIIT.edu.mm\nAddress: Mandalay, Myanmar"
+    ],
+    "library": [
+        "Yes, MIIT has a library. It is open from 9am to 5pm, Monday to Friday."
+    ],
+    "faculty": [
+        "MIIT has a dedicated team of experienced faculty members who are experts in their respective fields. For detailed profiles, please visit the faculty section on the MIIT website."
+    ],
+    "career services": [
+        "MIIT provides comprehensive career services including internship opportunities, career counseling, job placements, and workshops to help students prepare for their professional careers."
+    ],
+    "student life": [
+        "Student life at MIIT is vibrant with numerous clubs, events, and activities to engage in beyond academics."
+    ],
+    "health services": [
+        "Yes, MIIT provides health services to ensure the well-being of its students. This includes access to medical facilities and mental health support."
+    ],
+    "transportation": [
+        "MIIT is accessible via various transportation options including public transport and private vehicles. Shuttle services are also available for students."
+    ],
+    "alumni": [
+        "MIIT alumni have gone on to achieve success in various fields including technology, engineering, and research. The alumni network provides opportunities for networking and professional growth."
+    ],
+    "recent news": [
+        "For the latest news and updates about MIIT, please visit the news section on the MIIT website or follow their social media channels."
+    ],
+    "administration": [
+        "The main administrators of MIIT are the Director, the Rector, the Pro-Rector, and the Registrar. They are responsible for implementing the goals of MIIT and ensuring the academic and operational excellence of the institute."
+    ],
+    "collaborations": [
+        "MIIT collaborates with various international institutions and organizations to enhance its academic programs and research capabilities. These collaborations include partnerships with universities, research centers, and industry leaders."
+    ],
+    "rankings": [
+        "MIIT is recognized as a leading institution for technological education and research in Myanmar. For detailed rankings and achievements, please visit the MIIT website."
+    ],
+    "research": [
+        "MIIT offers various research opportunities for students and faculty in fields such as computer science, electronics, and communication engineering. The institute also participates in collaborative research projects with international partners."
+    ],
+    "extracurricular": [
+        "MIIT offers a wide range of extracurricular activities including clubs, sports, cultural events, and community service programs. These activities help students develop their skills and interests outside of academics."
+    ],
+    "food": [
+        "MIIT provides various dining options for students, including a cafeteria and food stalls that offer a variety of meals and snacks."
+    ],
+    "internships": [
+        "MIIT offers a variety of internship opportunities in collaboration with industry partners. For more information, please visit the internships section on our website."
+    ],
+    "industry partnerships": [
+        "MIIT has partnerships with several leading companies in the technology sector, providing students with opportunities for internships, projects, and job placements."
+    ],
+    "student exchange": [
+        "MIIT offers student exchange programs with various international universities. These programs allow students to gain global exposure and experience."
+    ],
+    "labs": [
+        "MIIT is equipped with state-of-the-art laboratories for various disciplines, including computer science, electronics, and communication engineering."
+    ],
+    "research centers": [
+        "MIIT hosts several research centers focusing on areas such as artificial intelligence, robotics, and data science. These centers facilitate cutting-edge research and innovation."
+    ],
+    "online learning": [
+        "MIIT offers a range of online courses and learning resources, allowing students to study remotely. For more information, please visit the online learning section on our website."
+    ],
+    "rector": [
+        "The rector of MIIT is Dr.Win Aye. Dr. Win Aye has a doctorate from Multimedia University, Malaysia and is the Rector of MIIT. She received her B.C.Tech. (Bachelor of Computer Technology) and M.C.Tech. (Master of Computer Technology) degrees from the University of Computer Studies, Yangon (UCSY) in 1995 and 1999 respectively."
+    ],
+    "prorector": [
+        "Dr. Myat Thuzar Tun and Dr. Khaing Nyunt Myaing are the pro-rectors of MIIT. Dr. Myat Thuzar Tun takes responsibility for administration of all activities related to academics. Dr. Khaing Nyunt Myaing takes the responsibility of the administration of Academic and non-academic work of the Institute."
+    ],
+    "history": [
+        "MIIT, the Myanmar Institute of Information Technology, was established in December 2015 through a collaboration between the governments of India and Myanmar. It aims to provide high-quality education and research in the field of information technology. For more information, you can visit the history section on the MIIT website."
+    ],
+    "project show": [
+        "The Project Show and Competition at MIIT is an annual event where faculty members and students showcase their skills, creativity, and innovative ideas through various projects. The most recent event was held on June 28, 2023, at the MIIT campus. For more information, you can visit the events section on the MIIT website."
+    ],
+    "code mutants": [
+        "CodeMutants is an annual competitive programming contest organized by MIIT. The event includes multiple rounds with problems of varying difficulty levels. For more details, you can visit the MIIT website."
+    ],
+    "daw khaing thazin min": [
+        "Daw Khaing Thazin Min is a Lecturer in the Faculty of Computer Systems and Technology at MIIT. She holds a master\u00e2\u20ac\u2122s degree in computer technology from Computer University, Mandalay, and a Post Graduate Diploma in Software Development from MIIT."
+    ],
+    "Daw_Nwe_Ni_Kyaw": [
+        "Daw Nwe Ni Kyaw is a Lecturer in the Faculty of Computer Science at MIIT and an ASEAN fellowship Ph.D. Scholar at the Indian Institute of Technology Kharagpur. Her research interests include deep learning, machine learning, and artificial intelligence."
+    ],
+    "Daw Phyu Myo Thwe": [
+        "Daw Phyu Myo Thwe is a Lecturer in the Faculty of Computer Science at MIIT. She holds a Master\u00e2\u20ac\u2122s degree in computer science from the University of Computer Studies, Monywa, and is currently researching Myanmar Sign Language for her Ph.D. at the University of Computer Studies, Mandalay."
+    ],
+    "Daw Phyu Phyu Khaing": [
+        "Daw Phyu Phyu Khaing is a Lecturer in the Faculty of Information Science at MIIT. She holds Bachelor and Master\u00e2\u20ac\u2122s degrees in computer science from Computer University (Monywa) and has over 13 years of teaching experience."
+    ],
+    "daw nu war": [
+        "Dr. Nu Wah is an accomplished academic and educator affiliated with the Myanmar Institute of Information Technology (MIIT). She has made significant contributions to the fields of information technology and computer science. Dr. Nu Wah's expertise lies in various areas of technology, including machine learning, data science, and artificial intelligence. At MIIT, she plays a pivotal role in both teaching and research, guiding students and collaborating on innovative projects."
+    ],
+    "daw hsu mon maung": [
+        "Daw Hsu Mon Maunghas an impressive academic background with a Ph.D. in Software Engineering and extensive experience in teaching and research, particularly in test case reduction and clustering algorithms. She currently serves as a lecturer at the Myanmar Institute of Information Technology (MIIT)."
+    ],
+    "daw khaing zar thwe": [
+        "Daw Khaing Zar Thwe is a Lecturer in the Faculty of Information Science at MIIT."
+    ],
+    "daw zar chi su su hlaing": [
+        "Dr. Zar Chi Su Su Hlaing is a distinguished faculty member at the Myanmar Institute of Information Technology (MIIT). She specializes in information technology and has a strong academic and research background in computer science. Dr. Zar Chi Su Su Hlaing is dedicated to advancing knowledge in her field and is actively involved in both teaching and research."
+    ],
+    "daw khaing su wai": [
+        "Daw Khaing Su Wai is a Lecturer in the Faculty of Computer Systems and Technology at MIIT."
+    ],
+    "daw zar zar lin": [
+        "Dr. Zar Zar Lin is a respected educator at the Myanmar Institute of Information Technology (MIIT). With a strong academic background in computer science and information technology, she has made noteworthy contributions to both teaching and research. Dr. Zar Zar Lin is dedicated to fostering a deep understanding of IT among her students and is actively involved in innovative research projects. "
+    ],
+    "Daw Kyawt Kyawt Htay": [
+        "Dr. Kyawt Kyawt Htay is a computer scientist specializing in digital image processing. She holds a Ph.D. in Information Technology from the University of Computer Studies, Mandalay. Previously an Assistant Lecturer at Computer University, Loikaw, she is currently a faculty member at the Myanmar Institute of Information Technology (MIIT), Mandalay, focusing on research in computer vision, deep learning, and robotics."
+    ],
+    "facilities": [
+        "MIIT offers various facilities including modern labs, a library, sports complex, and a cafeteria."
+    ],
+    "placement": [
+        "MIIT has a good placement record with many reputed companies visiting the campus for recruitment."
+    ],
+    "academic reputation": [
+        "MIIT is known for its high academic standards and experienced faculty dedicated to providing quality education."
+    ],
+    "phone number": [
+        "You can contact MIIT at +95-9-45058-6468."
+    ],
+    "head FCST department": [
+        "Dr. Nu War is the head of Computer Systems and Technologies department at MIIT."
+    ],
+    "head FIS department": [
+        "Dr.Zar Chi Su Su Hlaing is the head of Information Science department at MIIT.She is a distinguished academic at the Myanmar Institute of Information Technology (MIIT). She has a robust background in computer science and information technology, contributing significantly to both education and research. At MIIT, Dr. Zar Chi Su Su Hlaing is dedicated to teaching and mentoring students, helping them achieve academic and professional success."
+    ],
+    "head FCS department": [
+        "Dr.Zar Zar Lin is the head of FCS department.Dr. Zar Zar Lin is a respected educator at the Myanmar Institute of Information Technology (MIIT). With a strong academic background in computer science and information technology, she has made noteworthy contributions to both teaching and research. Dr. Zar Zar Lin is dedicated to fostering a deep understanding of IT among her students and is actively involved in innovative research projects."
+    ],
+    "head Data center": [
+        "Dr.Thandar Htwe is the head of data center."
+    ],
+    "head physics department": [
+        "Dr.Kay Thwe Kywe Aye is the head of physiscs departmrnt."
+    ],
+    "khaing nyunt myaing": [
+        "Dr. Khaing Nyunt Myaing is a prominent faculty member at the Myanmar Institute of Information Technology (MIIT). She possesses extensive expertise in the fields of computer science and information technology, contributing significantly to both academia and research. At MIIT, Dr. Khaing Nyunt Myaing is dedicated to teaching and mentoring students, fostering their academic growth and professional development."
+    ],
+    "myat thuzar tun": [
+        "Dr. Myat Thuzar Tun is a dedicated academic at the Myanmar Institute of Information Technology (MIIT). She holds a strong background in computer science and information technology, making significant contributions to education and research in these fields. At MIIT, Dr. Myat Thuzar Tun is committed to teaching and guiding students, helping them to achieve their academic and professional goals."
+    ]
+}
