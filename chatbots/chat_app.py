@@ -11,7 +11,7 @@ st.set_page_config(page_title="🤖💬 NAO Chatbot", initial_sidebar_state="exp
 with st.sidebar:
     col1, col2, col3 = st.columns([1, 1, 1])
     with col2:
-        logo_path = os.path.join("C:/Users/L-72/Wai_yan_folder/programming/NAO/miit_logo.png")  # Adjust the path as needed
+        logo_path = os.path.join("NAO/miit_logo.png")  # Adjust the path as needed
         logo = Image.open(logo_path)
         resized_logo = logo.resize((100, 100))  # Adjust the size as needed
         st.image(resized_logo)
@@ -32,7 +32,7 @@ with st.sidebar:
     st.markdown('Developed at MIC (MIIT Infinity Club).')
 
 # Set the API key environment variable (hardcoded or retrieved securely)
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = ""
 
 # Initialize the Groq client with the API key from the environment variable
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
