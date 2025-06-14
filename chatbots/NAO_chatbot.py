@@ -78,7 +78,7 @@ with st.sidebar:
     st.markdown('Developed at MIC (MIIT Infinity Club).')
 
 # Set the API key environment variable (hardcoded or retrieved securely)
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = ""
 
 # Initialize the Groq client with the API key from the environment variable
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
