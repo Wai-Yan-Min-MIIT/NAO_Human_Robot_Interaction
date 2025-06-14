@@ -14,7 +14,7 @@ from sklearn.preprocessing import LabelEncoder
 nltk.download('punkt')
 
 # Load the custom dataset
-with open('C:\\Users\\L-72\\Wai_yan_folder\\programming\\NAO\\miit_dataset.json', 'r') as file:
+with open('NAO\\miit_dataset.json', 'r') as file:
     data = json.load(file)
 
 # Extract patterns and tags
@@ -53,7 +53,7 @@ st.set_page_config(page_title="🤖💬 NAO Chatbot", initial_sidebar_state="exp
 with st.sidebar:
     col1, col2, col3 = st.columns([1, 1, 1])
     with col2:
-        logo_path = os.path.join("C:/Users/L-72/Wai_yan_folder/programming/NAO/miit_logo.png")  # Adjust the path as needed
+        logo_path = os.path.join("NAO/miit_logo.png")  # Adjust the path as needed
         logo = Image.open(logo_path)
         resized_logo = logo.resize((100, 100))  # Adjust the size as needed
         st.image(resized_logo)
